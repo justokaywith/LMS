@@ -1,0 +1,6 @@
+Dear sir 
+
+Create a database with name project and import project.sql file on phpmyadmin XAMPP server
+
+Admin pass is already in database.
+
